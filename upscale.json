@@ -409,7 +409,7 @@
         "Node name for S&R": "CheckpointLoaderSimple"
       },
       "widgets_values": [
-        "Qwen-Rapid-AIO-NSFW-v5.safetensors"
+        "X"
       ],
       "color": "#223",
       "bgcolor": "#335"
